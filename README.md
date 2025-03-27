@@ -78,12 +78,7 @@ Import into Unity:
 
 Assets > Import Package > Custom Package
 
-# Documentation & Support
-[📖 Official Documentation](https://docs.readyplayer.me/ready-player-me/integration-guides/overview)
 
-💡 [GitHub Repository](https://github.com/readyplayerme/rpm-unity-sdk-core)
-
-🛠 [Support & Community](https://readyplayer.me/)
 ## Usage/Examples
 
     [SerializeField][Tooltip("RPM avatar URL or shortcode to load")] 
@@ -179,6 +174,13 @@ Assets > Import Package > Custom Package
 **Client:** Unity,C#
 
 **Package:** Ready Player Me SDK
+
+# Documentation & Support
+[📖 Official Documentation](https://docs.readyplayer.me/ready-player-me/integration-guides/overview)
+
+💡 [GitHub Repository](https://github.com/readyplayerme/rpm-unity-sdk-core)
+
+🛠 [Support & Community](https://readyplayer.me/)
 
 
 
