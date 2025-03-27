@@ -160,7 +160,7 @@ Assets > Import Package > Custom Package
 ![](https://github.com/AzharKhemta/DemoClient/blob/main/Ready%20Player%20Me%20full%20video%20Part%201.gif?raw=true)
 
 ## Part 2
-![](https://raw.githubusercontent.com/AzharKhemta/DemoClient/refs/heads/main/Ready%20player%20me%20Part%202.gif)
+![](https://github.com/AzharKhemta/DemoClient/blob/main/Ready%20player%20me%20full%20video%20Part%202.gif?raw=true)
 ## Authors
 
 - [@MirHamzaHasan](https://github.com/MirHamzaHasan)
